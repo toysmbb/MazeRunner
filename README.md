@@ -54,5 +54,4 @@ Its behavior logic is implemented using a simple **Behavior Tree** and **AI Cont
 This setup demonstrates a **basic but effective AI system** using Unreal Engine’s **Behavior Tree** and **C++ event-driven logic**, without relying on vision checks or perception components.
 
 
-## 🧱 Project Structure
 
